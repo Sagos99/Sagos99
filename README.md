@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="img//one_piece_top.png">
+	<img src="img//one-piece-top-banner.png">
 </p>
 
 <p align="center">
