@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="">
+	<img src="img//one_piece_top.png">
 </p>
 
 - 🔥 Python Developer
@@ -11,9 +11,11 @@
 - ⚡ Fun fact: ...
 
 <p align="center">
-	<img src="">
+	<img src="img//one_piece_meio.png">
 </p>
-
+<p align="center">
+	<img src="img//one_piece_tecnologias.png">
+</p>
 <p align="center">
 	<img src="img//one_piece_baixo.png">
 </p>
