@@ -2,17 +2,40 @@
 	<img src="img//one-piece-top-banner.png">
 </p>
 
-<div style="position: relative;">
-  <img src="img/one-piece-banner-meio_Prancheta 1.png" alt="One Piece banner" style="width: 100%;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <ul>
-      <li>Tópico 1</li>
-      <li>Tópico 2</li>
-      <li>Tópico 3</li>
-      <li>Tópico 4</li>
-    </ul>
-  </div>
+
+
+<p align="center">
+	<img src="img//meio-top_Prancheta 1.png">
+</p>
+
+<div style="text-align: center;">
+
+<h2>Olá Devs! 🖐</h2>
 </div>
+<br></br>
+
+- Desenvolvedor Python 🐍
+- Atualmente trabalho na Suridata Tecnologia
+- Estou estudando C#
+- Me divertindo bastante com Unity
+</div>
+
+<p align="center">
+	<img src="img//meio_Prancheta 1.png">
+</p>
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
+![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
+![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+
+<p align="center">
+	<img src="img//meio-bot_Prancheta 1_Prancheta 1.png">
+</p>
 
 <p align="center">
 	<img src="img//one-piece-bot-banner.png">
